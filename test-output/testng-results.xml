@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-05T15:22:31 IST" name="Default suite" finished-at="2022-12-05T15:22:40 IST" duration-ms="9247">
+    <groups>
+    </groups>
+    <test started-at="2022-12-05T15:22:31 IST" name="Default test" finished-at="2022-12-05T15:22:40 IST" duration-ms="9247">
+      <class name="com.RegTest.RegTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.RegTest.RegTest@7e7be63f]" started-at="2022-12-05T15:22:31 IST" name="setUp" finished-at="2022-12-05T15:22:37 IST" duration-ms="5346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CurrentUrl()[pri:0, instance:com.RegTest.RegTest@7e7be63f]" started-at="2022-12-05T15:22:37 IST" name="CurrentUrl" finished-at="2022-12-05T15:22:37 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CurrentUrl -->
+        <test-method signature="RegistrationTest()[pri:0, instance:com.RegTest.RegTest@7e7be63f]" started-at="2022-12-05T15:22:37 IST" name="RegistrationTest" finished-at="2022-12-05T15:22:40 IST" duration-ms="3626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.RegTest.RegTest@7e7be63f]" started-at="2022-12-05T15:22:40 IST" name="close" finished-at="2022-12-05T15:22:40 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.RegTest.RegTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
